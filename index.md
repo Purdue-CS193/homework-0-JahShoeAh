@@ -7,7 +7,8 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 Some of my favorite CS193 things
 - The teachers
 - The welcoming environment
-- How hands-on it is 
+- How hands-on it is
+
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
